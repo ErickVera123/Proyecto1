@@ -1,0 +1,76 @@
+    1  clear
+    2  clear
+    3  cd[200~ ~
+    4  ~cleae
+    5  clear
+    6  cd~
+    7  cd ~
+    8  cd /
+    9  pwd
+   10  ls
+   11  cd ~
+   12  ls
+   13  mkdir proyecto1
+   14  cd desktop
+   15  mkdir proyecto1
+   16  cd proyecto1/
+   17  echo "soy el profe de disque python porque no hemos visto nada de python"> biografia.txt
+   18  ls
+   19  git --version
+   20  git -v
+   21  git -init
+   22  git init
+   23  ls -a
+   24  explorer
+   25  explorer.
+   26  code
+   27  rm -rf .git
+   28  git init
+   29  ls
+   30  echo "el profe rifa" >> biografia.txtx
+   31  git status
+   32  echo "el profe rifa" >> biografia.txt
+   33  git status
+   34  git add biografia.txt
+   35  echo "el profe rifa2" >> biografia.txt
+   36  git diff
+   37  cat biografia.txt
+   38  git status
+   39  git restore biografia.txt
+   40  cat biografia.txt
+   41  git commit -m "primer version"
+   42  git config --global user.mail "micorreo@gmail.com"
+   43  git config --global user.name "mi nombre"
+   44  git commit -m "primer version"
+   45  git config --global user.email "micorreo@gmail.com"
+   46  pwd
+   47  cd desktop
+   48  cd proyecto1/
+   49  git log
+   50  git log
+   51  cat biografia.txt
+   52  code
+   53  cd desktop
+   54  cd proyecto1
+   55  git status
+   56  git diff
+   57  git add biografia.txt
+   58  git status
+   59  git comit
+   60  git commit
+   61  git commit
+   62  git commit
+   63  git log
+   64  git log --oneline
+   65  touch otro.txt
+   66  ls
+   67  git status
+   68  git commit
+   69  git status
+   70  git commit
+   71  git commit
+   72  git add otro.txt
+   73  git commit
+   74  git log-
+   75  git log --oneline
+   76  history > comandos.txt
